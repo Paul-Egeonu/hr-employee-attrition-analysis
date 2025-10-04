@@ -19,7 +19,7 @@ HR_Analysis/
 │── sql_scripts/
 │    └── hr_cleaning_transformations.sql   # SQL cleaning & preprocessing steps
 │── HR_Analysis.pbix                       # Power BI dashboard file
-│── HR_Report.pdf                          # Exported report (preview of dashboards)
+│── Max_Holdings_BI.pdf                    # Exported report (preview of dashboards)
 │── README.md                              # Project documentation
 ```
 
@@ -70,8 +70,9 @@ The Power BI report contains **5 Pages**:
    - Key findings on demographics, recruitment, pay disparities, workload, and data quality issues  
    - **Business Recommendations** for gender equity, succession planning, fair compensation, retention, and workload balancing  
 
-📄 **Preview:** See `HR_Report.pdf` for dashboard snapshots.  
-👉 **[Insert screenshot placeholders here for each Power BI dashboard page]**  
+📄 **Preview:** See `Max_Holdings_BI.pdf` for dashboard snapshots.  
+👉 **[Max_Holdings_BI.pdf](https://github.com/user-attachments/files/22704288/Max_Holdings_BI.pdf)**
+
 
 ![Max_Holdings_BI](https://github.com/user-attachments/assets/8f4cfee7-8214-49d7-900f-05082d8af75a)
 
