@@ -40,7 +40,7 @@ HR_Analysis/
   - Corrected formatting issues (string trims, proper case for names, gender standardization)  
   - Validated payroll consistency (Net Pay = Gross Pay - Deduction)  
 
-👉 See `sql_scripts/hr_cleaning_transformations.sql` for full SQL workflow.
+👉 See `Max_Holdings_Database.sql` for full SQL workflow.
 
 ---
 
