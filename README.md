@@ -1,6 +1,3 @@
-# hr-employee-attrition-analysis
-Human Resources analytics project exploring employee data to uncover trends, patterns, and key insights on attrition, satisfaction, and workforce dynamics. Includes exploratory data analysis (EDA), statistical summaries, and interactive visualizations.
-
 # 👥 HR Employee Analysis with Power BI & SQL
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)
@@ -8,7 +5,7 @@ Human Resources analytics project exploring employee data to uncover trends, pat
 ![Python](https://img.shields.io/badge/Python-Connector-yellow?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 
-This project presents an **HR Analytics solution** for a fictional company (**Max_Holdings**) using **MySQL** for data transformation and **Power BI** for visualization and reporting.  
+This project presents an **HR Analytics solution** for a company (**Max_Holdings**) using **MySQL** for data transformation and **Power BI** for visualization and reporting.  
 It provides insights into **employee demographics, payroll, recruitment trends, workforce structure, and HR recommendations**.
 
 ---
