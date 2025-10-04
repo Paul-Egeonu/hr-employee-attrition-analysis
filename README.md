@@ -17,8 +17,8 @@ HR_Analysis/
 │── data/
 │    └── online CSV extracts of raw HR tables (employee_info, salary, departments, division)
 │── sql_scripts/
-│    └── hr_cleaning_transformations.sql   # SQL cleaning & preprocessing steps
-│── HR_Analysis.pbix                       # Power BI dashboard file
+│    └── Max_Holdings_Database.sql         # SQL cleaning & preprocessing steps
+│── Max_Holdings_Analysis.pbix             # Power BI dashboard file
 │── Max_Holdings_BI.pdf                    # Exported report (preview of dashboards)
 │── README.md                              # Project documentation
 ```
