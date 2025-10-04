@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Connector-yellow?logo=python&logoColor=white)
+![MySQL Connector](https://img.shields.io/badge/MySQL-Connector-4479A1?logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 
 This project presents an **HR Analytics solution** for a company (**Max_Holdings**) using **MySQL** for data transformation and **Power BI** for visualization and reporting.  
@@ -72,6 +72,8 @@ The Power BI report contains **5 Pages**:
 
 📄 **Preview:** See `HR_Report.pdf` for dashboard snapshots.  
 👉 **[Insert screenshot placeholders here for each Power BI dashboard page]**  
+
+![Max_Holdings_BI](https://github.com/user-attachments/assets/8f4cfee7-8214-49d7-900f-05082d8af75a)
 
 ---
 
