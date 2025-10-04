@@ -1,4 +1,4 @@
-# 👥 HR Employee Analysis with Power BI & SQL
+# 👥 HR Employee Analysis with SQL & Power BI
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
