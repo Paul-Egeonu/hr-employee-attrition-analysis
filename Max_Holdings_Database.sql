@@ -1,4 +1,6 @@
--- Creation of Database for the project 'Max_Holdings'
+-- =============================================================
+-- Creation of Database for the project
+-- =============================================================
 CREATE DATABASE Max_Holdings;
 USE Max_Holdings;
 
@@ -10,7 +12,6 @@ SELECT * FROM salary;
 SELECT * FROM departments;
 SELECT * FROM division;
 
-SELECT * FROM employee_info_2;
 -- =============================================================
 -- Description of the tables
 -- =============================================================
