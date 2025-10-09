@@ -1,7 +1,7 @@
 ![campaign-creators-gMsnXqILjp4-unsplash](https://github.com/user-attachments/assets/68af6507-8efb-449c-9a8a-8bd95e3da6e8)
 
 
-# 👥 HR Employee Analysis with SQL & Power BI
+# 👥 HR Workforce Analysis with SQL & Power BI
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
