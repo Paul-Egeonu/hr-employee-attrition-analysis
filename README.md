@@ -61,6 +61,12 @@ WHERE emp_unique_id IN (
 
 ---
 
+## 🔗 MySQL Connection to Power BI
+
+A live connection to the MySQL database was established using the MySQL Connector. This integration enabled direct querying and real-time data updates within Power BI, ensuring that the dashboard reflects the most current information from the data source.
+
+---
+
 ## 📊 Power BI Dashboard
 
 The Power BI report contains **5 Pages**:
@@ -132,14 +138,13 @@ source sql_scripts/hr_cleaning_transformations.sql;
 ## 📌 Future Improvements
 
 - Automate updates with a **live MySQL–Power BI connection**  
-- Add **HR forecasting models** (attrition prediction, salary projections)  
-- Deploy interactive **Power BI Service dashboards** with scheduled refresh  
+- Add **HR forecasting models** (attrition prediction, salary projections)    
 - Integrate with **Python (Pandas + Seaborn)** for deeper EDA before visualization  
 
 ---
 
 ## 🏆 Author
 
-**Your Name**  
+**Paul Egeonu**  
 _Data Analyst & Data Scientist_  
-[LinkedIn](https://www.linkedin.com/) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/paul_egeonu) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/Paul-Egeonu)
