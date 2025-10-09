@@ -38,7 +38,24 @@ HR_Analysis/
   - Removed duplicate employee records using `ROW_NUMBER()`  
   - Replaced missing/invalid values (e.g., recalculated ages using audit date)  
   - Corrected formatting issues (string trims, proper case for names, gender standardization)  
-  - Validated payroll consistency (Net Pay = Gross Pay - Deduction)  
+  - Validated payroll consistency (Net Pay = Gross Pay - Deduction)
+ 
+``` sql
+-- _____________________________________________________________
+-- Delete duplicate entries:
+-- _____________________________________________________________
+
+WITH Duplicate_emp AS (
+						SELECT 	emp_unique_id,
+								ROW_NUMBER() OVER (PARTITION BY ID ORDER BY emp_unique_id) AS entry_no
+						FROM employee_info)
+                        
+DELETE FROM employee_info
+WHERE emp_unique_id IN (
+						SELECT emp_unique_id 
+                        FROM Duplicate_emp WHERE entry_no > 1)
+; 
+```
 
 👉 See `Max_Holdings_Database.sql` for full SQL workflow.
 
