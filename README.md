@@ -35,7 +35,7 @@ HR_Analysis/
 - **Cleaning Steps (in MySQL):**
   - Fixed datatypes for text, date, and numeric fields  
   - Created a **full relational view (`raw_view`)** joining all tables  
-  - Removed duplicate employee records using `ROW_NUMBER()`  
+  - Removed duplicate employee records using window function & CTE `ROW_NUMBER()`  
   - Replaced missing/invalid values (e.g., recalculated ages using audit date)  
   - Corrected formatting issues (string trims, proper case for names, gender standardization)  
   - Validated payroll consistency (Net Pay = Gross Pay - Deduction)
