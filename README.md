@@ -21,6 +21,8 @@ HR_Analysis/
 │    └── online CSV extracts of raw HR tables (employee_info, salary, departments, division)
 │── sql_scripts/
 │    └── Max_Holdings_Database.sql         # SQL cleaning & preprocessing steps
+│── mysql_connection/
+│    └── MySQL_to_PowerBI_Setup.md         # Steps to establish live MySQL connection using MySQL Connector
 │── Max_Holdings_Analysis.pbix             # Power BI dashboard file
 │── Max_Holdings_BI.pdf                    # Exported report (preview of dashboards)
 │── README.md                              # Project documentation
@@ -137,8 +139,7 @@ source sql_scripts/hr_cleaning_transformations.sql;
 
 ## 📌 Future Improvements
 
-- Automate updates with a **live MySQL–Power BI connection**  
-- Add **HR forecasting models** (attrition prediction, salary projections)    
+- Add **HR forecasting models** (e.g salary projections) & data for attrition prediction    
 - Integrate with **Python (Pandas + Seaborn)** for deeper EDA before visualization  
 
 ---
